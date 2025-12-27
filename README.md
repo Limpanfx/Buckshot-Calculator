@@ -15,4 +15,4 @@ A simple calculator tool written in Python.
 
 1. Clone the repository:
    ```bash
-   [git clone https://github.com/yourusername/buckshot-roulette-calculator.git](https://github.com/Limpanfx/Buckshot-Calculator.git)
+   git clone https://github.com/Limpanfx/Buckshot-Calculator.git
