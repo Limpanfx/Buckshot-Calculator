@@ -16,3 +16,5 @@ A simple calculator tool written in Python.
 1. Clone the repository:
    ```bash
    git clone https://github.com/Limpanfx/Buckshot-Calculator.git
+2. Run the installer.cmd
+3. Run the runner.bat
